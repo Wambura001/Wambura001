@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Wambura001
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning javascript and python.
-- 💞️ I’m looking to collaborate on website creation and management.
-- 📫 How to reach me on email @meshack.sirincha@student.moringaschool.com
+sotware engineer
+-html
+-css
+-javascript
+-c++
+-python
+ I’m looking to collaborate .
+Reach me on email @sirinchameshack@gmail.com
 
 <!---
 Wambura001/Wambura001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
