@@ -1,4 +1,4 @@
-sotware engineer
+fulll-stack engineer
 -html
 -css
 -javascript
