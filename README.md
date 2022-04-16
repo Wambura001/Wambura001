@@ -1,9 +1,7 @@
-fulll-stack engineer
+software engineer
 -html
 -css
 -javascript
--c++
--python
  I’m looking to collaborate .
 Reach me on email @sirinchameshack@gmail.com
 
