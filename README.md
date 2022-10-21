@@ -1,4 +1,5 @@
-software engineer
+# Meshack Wambura
+I am a passionate developer with experience in ;
 -html
 -css
 -javascript
