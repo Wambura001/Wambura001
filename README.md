@@ -1,5 +1,9 @@
 # Wambura Meshack
-
+machine learning 
+- opencv
+cybersecurity and cryptography 
+algorithms and data structures 
+database management systems 
 # 💻 Tech Stack:
 
   ### Front-end development 
