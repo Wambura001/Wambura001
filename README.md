@@ -1,27 +1,17 @@
-### Data Analysis Portfolio
+# Hi, I'm Sirincha Meshack Wambura
+### Data Science & Machine Learning Engineer
 
-#### 📊 Data Collection & Querying
-The foundation of any analysis relies on gathering the right data efficiently from structured warehouses and databases.
-<div align='left'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-</div>
+I build end-to-end machine learning pipelines, deep learning models, and NLP solutions to help organisations make data driven decisions.
 
-#### 🧼 Data Cleaning & Manipulation
-Transforming raw, messy datasets into structured, pristine data ready for deep analysis and modeling.
-<div align='left'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="30" alt="Excel logo" />
-</div>
+### Core Technical Stack
+- **Data Collection & Querying:** SQL, Web Scraping (BeautifulSoup), REST API Integration
+- **Data Cleaning & Manipulation:** Pandas, NumPy, Data Imputation, Outlier Detection, Feature Scaling & Transformation
+- **Languages & Analysis:** Python, SQL, Pandas, NumPy, Statistics
+- **Machine Learning & Deep Learning:** PyTorch, Scikit-Learn, LSTM, Decision Trees, Ensemble Learning (Bagging/Boosting)
+- **NLP & LLMs:** FinBERT, LLM Calibration, Transformer Ensembles
+- **Computer Vision & Tools:** OpenCV, Jupyter, Tableau, Power BI
+- **Visualization & BI:** Tableau, Power BI, Matplotlib, Seaborn
 
-#### 📈 Data Visualization & Presentation
-Translating complex metrics into intuitive dashboards and executive-ready presentations to drive business decisions.
-<div align='left'>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="30" alt="Tableau logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30" alt="Power BI logo" />
-</div>
+### Featured Machine Learning Projects
+
+Please click the links below to view projects. Thank you
